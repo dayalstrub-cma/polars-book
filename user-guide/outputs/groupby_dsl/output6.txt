@@ -1,0 +1,16 @@
+shape: (5, 4)
+┌───────┬────────────────────┬──────────────────┬────────────────────┐
+│ state ┆ youngest           ┆ oldest           ┆ alphabetical_first │
+│ ---   ┆ ---                ┆ ---              ┆ ---                │
+│ cat   ┆ str                ┆ str              ┆ str                │
+╞═══════╪════════════════════╪══════════════════╪════════════════════╡
+│ "WA"  ┆ Columbia Lancaster ┆ Randy Tate       ┆ Addison Foster     │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ "NJ"  ┆ Lambert Cadwalader ┆ Jon Runyan       ┆ Aaron Kitchell     │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ "OH"  ┆ John Smith         ┆ John Boccieri    ┆ Aaron Harlan       │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ "FL"  ┆ Charles Downing    ┆ Patrick Murphy   ┆ Abijah Gilbert     │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ "GU"  ┆ Antonio Won Pat    ┆ Robert Underwood ┆ Antonio Won Pat    │
+└───────┴────────────────────┴──────────────────┴────────────────────┘
